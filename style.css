@@ -1,0 +1,183 @@
+.co1{
+    overflow: hidden;
+}
+.container {
+    background-color: cornflowerblue;
+
+}
+
+.gani h1 {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: left;
+    color: #020911;
+    display: inline-block;
+
+
+}
+
+.gani h1:hover {
+    background-color: #eb1a1a;
+    color: #02060b;
+}
+
+.gani iframe {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.gani a {
+    color: #020911;
+    float: inline-end;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    padding: 43px 20px;
+
+}
+
+.gani a:hover {
+    background-color: #eb1a1a;
+    color: #02060b;
+    width: 10%;
+    height: 2%;
+}
+
+.gani a:active {
+    background-color: #eb1a1a;
+    color: #02060b;
+    width: 10%;
+    height: 2%;
+}
+
+.main {
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    color: #020911;
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+    box-sizing: border-box;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.content {
+    color: #020911;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://hdqwalls.com/wallpapers/nature-background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: auto;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+.card{
+    width: 325px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow:hidden;
+    box-shadow: opx 2px 4px rgba(0,0,0,0.2);
+    margin: 20px;
+}
+.card img{
+    width: 325px;
+    height: 250px;
+}
+.card-container:hover {
+    background-color: #eb1a1a;
+    color: #02060b;
+}
+.card:hover {
+     width: 300px;
+     height: 240px;
+}
+.footer{
+    background-color:cornflowerblue;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+    height:50vh;
+    justify-content: center;
+    padding:20px 10px;
+    color: #020911;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 43px 20px;
+    
+
+}
+.footer-body{
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+    width:300px;
+    height:300px;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+
+.footer__content input{
+    padding:7px;
+    margin:5px;
+    border-radius: 5px;
+
+
+}
+.full video{
+    border:2px solid #020911;
+    height:100vh;
+    width:200vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.full iframe{
+     border:2px solid #020911;
+    height:65vh;
+    width:180vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
